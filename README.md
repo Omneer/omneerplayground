@@ -11,14 +11,6 @@ Omneer SDK leverages Argo, a powerful, Kubernetes-native workflow engine to deli
 
 </div>
 
-Workflows developed with the SDK feature:
-
-  * Instant no-code interfaces for accessibility and publication
-  * First class static typing
-  * Containerization + versioning of every registered change
-  * Reliable + scalable managed cloud infrastructure
-  * Single line definition of arbitrary resource requirements (eg. CPU, GPU) for serverless execution
-
 Utilizing the Omneer SDK, developers can deliver:
 
 - Personalized AI and machine learning tools
