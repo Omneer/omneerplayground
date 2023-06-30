@@ -2,9 +2,11 @@
 
 # Omneer SDK
 
-Omneer SDK is an innovative toolkit designed for building AI and machine learning driven personalized medicine applications. It allows developers to effortlessly construct, deploy, and interface with such applications using Python.
+Omneer SDK is a state-of-the-art toolkit designed for the development and deployment of AI and machine learning powered personalized medicine applications in the neuroscience field. The SDK, with its Python-centric approach, provides an easy-to-use platform for developers to create and interact with their applications.
 
-Omneer SDK leverages Argo, a powerful, Kubernetes-native workflow engine to deliver robust scalability and resilience. It guarantees task-level atomicity and offers containerization, independent task scheduling, and versatile, scalable computing resources.
+Fueled by Airflow, a dynamic and highly scalable workflow orchestration engine known for its efficiency and flexibility, Omneer SDK ensures seamless processing and management of complex data workflows. Airflow's Directed Acyclic Graph (DAG) approach ensures atomicity at a task level, allowing for a comprehensive and orderly execution of tasks.
+
+This SDK further enhances workflow execution with containerization options, offering independence in task scheduling and a vast array of scalable computing resources. As such, the Omneer SDK represents a perfect convergence of neuroscience, personalized medicine, and cutting-edge technology, promising a new era of advanced and personalized healthcare solutions.
 
 [Discord Community Community]() • [Docs](https://docs.omneer.xyz) • [Installation](#installation) •
 [Quickstart](#configuration) • [Omneer](https://omneer.xyz)
